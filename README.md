@@ -1,5 +1,5 @@
 # book-recommendation-system
-# disertation project
+# master's thesis
 
 The conducted study consists of applying 5 machine learning algorithms (collaborative filtering - item-based and user-based, matrix factorization, content based filtering and hybrid method) on the same database in order to compare their performance and choose the algorithm that provides the best book recommendations.
 
